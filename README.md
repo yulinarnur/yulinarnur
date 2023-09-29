@@ -6,8 +6,8 @@
 - 💡 Passionate about back-end development.
 
 ## 🛠️ Technologies & Tools
-- **Languages**: JavaScript, Python, PHP
-- **Frameworks**: React, Node.js, Laravel
+- **Languages**: JavaScript, Python, PHP, Ruby
+- **Frameworks**: React, Node.js, Laravel, Ruby on Rails
 - **Tools**: Git, Docker, Jenkins
   
 ## 📫 Let's Connect!
