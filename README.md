@@ -1,6 +1,5 @@
 # Hello, I'm Yulinar Nur Rahmawati! 👋
 
-## 🚀 About Me
 - 🎓 I'm a fresh graduate of State Polytechnic of Jember with a degree in Information Technology.
 - 🌱 Learning more about Node.js as a backend development language.
 - 💡 Passionate about back-end development.
