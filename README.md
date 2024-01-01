@@ -1,6 +1,6 @@
 # Hello, I'm Yulinar Nur Rahmawati! 👋
 
-- 🌱 Learning more about Node.js and PHP as a backend development language.
+- 🌱 Learning more about Node.js and PHP (Laravel) as a backend development language.
 - 💡 Passionate about back-end development.
   
 ## 📫 Let's Connect!
